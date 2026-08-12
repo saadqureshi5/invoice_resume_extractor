@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+instructor
+pydantic
+python-multipart
+google-generativeai
+python-dotenv
